@@ -5,10 +5,10 @@
 
 ### 1. Folding Plugin
 
-Source : https://github.com/dmytrodanylyk/folding-plugin
+<img src="http://creativesocialblog.com/wp-content/uploads/2013/03/Source-Logo-2.gif" height=60 />   <img src="http://www2.psd100.com/ppp/2013/09/2601/Down-arrow-logo-icon-0926003728.png" height=40 width=40/> 
+<BR> https://github.com/dmytrodanylyk/folding-plugin 
 
-<img src="http://www.littleblackdressgroup.com.au/wp-content/uploads/2012/09/CopyRight-Symbol.jpg" height=40 width=40/>   <img src="http://www.wpclipart.com/signs_symbol/button/metal_buttons/arrow_button_metal_green_right.png" height=40 width=40/> 
-[Dmytro Danylyk](https://github.com/dmytrodanylyk)
+<img src="http://www.littleblackdressgroup.com.au/wp-content/uploads/2012/09/CopyRight-Symbol.jpg" height=60 width=60/>   <img src="http://www2.psd100.com/ppp/2013/09/2601/Down-arrow-logo-icon-0926003728.png" height=40 width=40/> <h3 style="font-size:100%"> [Dmytro Danylyk](https://github.com/dmytrodanylyk) </h3>
 
 <img src="https://github.com/dmytrodanylyk/folding-plugin/blob/master/screenshots/Preview.png?raw=true" />
 

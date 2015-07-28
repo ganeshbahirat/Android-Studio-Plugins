@@ -48,6 +48,15 @@
 <img src="https://github.com/ganeshbahirat/Android-Studio-Plugins/blob/master/Assets/StudioColorThemes.png?raw=true" />
 
 
+-------------------------------------------------------------------------------------------------------------------
 
+### 5. Android DPI calcilator
+
+<img src="http://creativesocialblog.com/wp-content/uploads/2013/03/Source-Logo-2.gif" height=40 />   <img src="http://www2.psd100.com/ppp/2013/09/2601/Down-arrow-logo-icon-0926003728.png" height=20 width=20/> 
+<BR> https://github.com/JerzyPuchalski/Android-DPI-Calculator
+
+<img src="http://www.littleblackdressgroup.com.au/wp-content/uploads/2012/09/CopyRight-Symbol.jpg" height=40 width=40/>   <img src="http://www2.psd100.com/ppp/2013/09/2601/Down-arrow-logo-icon-0926003728.png" height=20 width=20/> <BR> [JerzyPuchalski](https://github.com/JerzyPuchalski)
+
+<img src="https://github.com/JerzyPuchalski/Android-DPI-Calculator/blob/master/img/dialog.png?raw=true" />
 
 

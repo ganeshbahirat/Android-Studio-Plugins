@@ -3,7 +3,20 @@
 <img src="http://www.eightbitdreams.com/wp-content/uploads/2015/05/android-studio-logo.png" height=100 >
 <img src="http://icons.iconarchive.com/icons/vladgohn/adobe-folders/512/plugin-folder-icon.png" height=100 width=100 >
 
+
+
 ### 1. Folding Plugin
+
+<img src="http://creativesocialblog.com/wp-content/uploads/2013/03/Source-Logo-2.gif" height=40 />   <img src="http://www2.psd100.com/ppp/2013/09/2601/Down-arrow-logo-icon-0926003728.png" height=20 width=20/> 
+<BR> https://github.com/tmorcinek/android-codegenerator-plugin-intellij
+
+<img src="http://www.littleblackdressgroup.com.au/wp-content/uploads/2012/09/CopyRight-Symbol.jpg" height=40 width=40/>   <img src="http://www2.psd100.com/ppp/2013/09/2601/Down-arrow-logo-icon-0926003728.png" height=20 width=20/> <BR> [Tomasz Morcinek](https://github.com/tmorcinek)
+
+<img src="http://plugins.jetbrains.com/files/7595/screenshot_14833.png" />
+
+-------------------------------------------------------------------------------------------------------------------
+
+### 2. Folding Plugin
 
 <img src="http://creativesocialblog.com/wp-content/uploads/2013/03/Source-Logo-2.gif" height=40 />   <img src="http://www2.psd100.com/ppp/2013/09/2601/Down-arrow-logo-icon-0926003728.png" height=20 width=20/> 
 <BR> https://github.com/dmytrodanylyk/folding-plugin 
@@ -14,7 +27,7 @@
 
 -------------------------------------------------------------------------------------------------------------------
 
-### 2. GSON Format
+### 3. GSON Format
 
 <img src="http://creativesocialblog.com/wp-content/uploads/2013/03/Source-Logo-2.gif" height=40 />   <img src="http://www2.psd100.com/ppp/2013/09/2601/Down-arrow-logo-icon-0926003728.png" height=20 width=20/> 
 <BR> https://github.com/zzz40500/GsonFormat
@@ -25,7 +38,7 @@
 
 -------------------------------------------------------------------------------------------------------------------
 
-### 3. Android Studio Color Themes
+### 4. Android Studio Color Themes
 
 <img src="http://creativesocialblog.com/wp-content/uploads/2013/03/Source-Logo-2.gif" height=40 />   <img src="http://www2.psd100.com/ppp/2013/09/2601/Down-arrow-logo-icon-0926003728.png" height=20 width=20/> 
 <BR> http://www.ideacolorthemes.org/themes/

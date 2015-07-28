@@ -5,7 +5,7 @@
 
 
 
-### 1. Folding Plugin
+### 1. Android Code Generator
 
 <img src="http://creativesocialblog.com/wp-content/uploads/2013/03/Source-Logo-2.gif" height=40 />   <img src="http://www2.psd100.com/ppp/2013/09/2601/Down-arrow-logo-icon-0926003728.png" height=20 width=20/> 
 <BR> https://github.com/tmorcinek/android-codegenerator-plugin-intellij

@@ -67,5 +67,18 @@
 
 <img src="https://camo.githubusercontent.com/c8b23e6a546e50717b079991ce2cad42171c97a6/68747470733a2f2f7261772e6769746875622e636f6d2f6a65726f6d6576646c2f616e64726f69642d686f6c6f2d636f6c6f72732d696465612d706c7567696e2f6d61737465722f6f746865722f686f6c6f636f6c6f7273696465612e706e67" />
 
+-------------------------------------------------------------------------------------------------------------------
+
+### 7. Android WiFi ADB 
+
+<img src="http://creativesocialblog.com/wp-content/uploads/2013/03/Source-Logo-2.gif" height=40 />   <img src="http://www2.psd100.com/ppp/2013/09/2601/Down-arrow-logo-icon-0926003728.png" height=20 width=20/> 
+<BR> https://github.com/pedrovgs/AndroidWiFiADB
+
+<img src="http://www.littleblackdressgroup.com.au/wp-content/uploads/2012/09/CopyRight-Symbol.jpg" height=40 width=40/>   <img src="http://www2.psd100.com/ppp/2013/09/2601/Down-arrow-logo-icon-0926003728.png" height=20 width=20/> <BR> [pedrovgs](https://github.com/pedrovgs)
+
+<img src="https://github.com/pedrovgs/AndroidWiFiADB/raw/master/art/screenshot1.gif" />
+
+
+
 
 
